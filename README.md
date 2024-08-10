@@ -3,6 +3,8 @@ ____________________________
 Inicio site simples
 ____________________________
 INDEX
+____________________________
+
 #Criado o arquivo index.html
 
 
